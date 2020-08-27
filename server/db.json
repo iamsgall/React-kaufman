@@ -1,0 +1,20 @@
+{
+  "badges": [
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test@gmail.com",
+      "jobTitle": "test",
+      "twitter": "test",
+      "id": "04H5PkH"
+    },
+    {
+      "firstName": "Salvador J",
+      "lastName": "Galliano M",
+      "email": "spantesting777@gmail.com",
+      "jobTitle": "Web Developer",
+      "twitter": "JSalva",
+      "id": "ZA1A6lC"
+    }
+  ]
+}
